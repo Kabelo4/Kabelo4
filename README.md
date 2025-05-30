@@ -46,6 +46,6 @@ I’m passionate about ethical AI, emphasizing transparency and interpretability
 ## Let's Connect
 <!--
 - [LinkedIn](https://www.linkedin.com/in/your-profile)-->
-- [Email](kabelo.kholoane4@gmail.com)
+- Email kabelo.kholoane4@gmail.com
 
 Feel free to reach out if you'd like to collaborate or discuss data science projects!

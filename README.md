@@ -42,10 +42,10 @@ I'm a Machine Learning Engineer at Mintek with a Master's degree in Data Science
 I’m passionate about ethical AI, emphasizing transparency and interpretability to build trust and acceptance—especially when using LLMs and AI in highly regulated industries. I’m also focused on applying AI in finance to improve financial models, and in industrial settings to enhance safety, increase throughput, reduce energy consumption and pollution, and support effective deployment.
 
 
-
-## Let's Connect
 <!--
-- [LinkedIn](https://www.linkedin.com/in/your-profile)-->
+**## Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-profile)
 - Email kabelo.kholoane4@gmail.com
 
-Feel free to reach out if you'd like to collaborate or discuss data science projects!
+Feel free to reach out if you'd like to collaborate or discuss data science projects!-->
